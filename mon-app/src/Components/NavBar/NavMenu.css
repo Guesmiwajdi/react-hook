@@ -1,0 +1,22 @@
+
+#searchInput{
+    width: 40% !important;
+}
+#searchNav {
+    display: inline-block;
+    width: 60% !important;
+    vertical-align: middle;
+}
+#Addbtn{
+    margin-left: 50px;
+}
+.navMenu{
+    background-color: rgb(19, 17, 17);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 5;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    
+}
